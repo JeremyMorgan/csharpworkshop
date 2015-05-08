@@ -1,4 +1,0 @@
-csharkworkshop
-==============
-
-C# Workshop files
